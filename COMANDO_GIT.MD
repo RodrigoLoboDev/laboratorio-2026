@@ -21,3 +21,17 @@ git add .
 
 <!-- Realizar el commit -->
 git commit -m "Mi primer commit"
+
+<!-- Ver los commit realizados -->
+git log
+git log --onelist
+<!-- Para salir la letra "q" -->
+
+<!-- Limpiar la consola -->
+clear
+
+<!-- Crear rama principal main -->
+git branch -M main
+
+<!-- Conectar nuestro local con el repo de la nube -->
+git remote add origin URL
