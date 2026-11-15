@@ -7,7 +7,7 @@
 
 ## 1. Consigna
 
-Cada alumno debe desarrollar **de forma individual** una aplicación web de tipo
+Desarrollar **de forma individual** una aplicación web de tipo
 **catálogo con carrito**, usando únicamente **HTML, CSS y JavaScript puro**
 (sin frameworks ni librerías de JS), aplicando todo lo visto en clase con el
 proyecto TechStore.

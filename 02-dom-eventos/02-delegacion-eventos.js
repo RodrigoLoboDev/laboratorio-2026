@@ -103,3 +103,22 @@ contenedor.addEventListener("click", (e) => {
     
 //   })
 // } )
+
+
+
+
+console.log('1');
+
+document.addEventListener('DOMContentLoaded', () => {
+  
+  funcion_principal();
+})
+console.log('3');
+
+const funcion_principal = () => {
+  console.log('2');
+}
+
+// 1
+// 3
+// 2
